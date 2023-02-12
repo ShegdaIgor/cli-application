@@ -20,5 +20,8 @@
     "homepage": "https://github.com/ShegdaIgor/cli-application#readme",
     "devDependencies": {
         "nodemon": "^2.0.12"
+    },
+    "dependencies": {
+        "yargs": "^17.6.2"
     }
 }
